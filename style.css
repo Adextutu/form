@@ -1,0 +1,27 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background: color #f8f8f9;
+}
+h2{
+    text-align: center;
+}
+form{
+    max-width: 300px;
+    margin: 40px auto;
+    padding: 16px;
+    border: 1px solid gray;
+}
+label {
+    line-height: 30px;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  input{
+    background-color: #ffffff;
+    border: 2px solid #484844;
+  }
+  select {
+    background-color: #ffffff;
+    border: 2px solid #4b4b47;
+  }
